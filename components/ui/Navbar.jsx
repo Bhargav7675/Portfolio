@@ -10,9 +10,9 @@ import { navigateTo } from '@/lib/scrollConfig'
 const NAV_ITEMS = [
   { label: 'Home',        target: 'intro' },
   { label: 'About',       target: 'about' },
+  { label: 'Education',   target: 'education' },
   { label: 'Projects',    target: 'projects' },
   { label: 'Experience',  target: 'experience' },
-  { label: 'Education',   target: 'education' },
   { label: 'Research',    target: 'research' },
   { label: 'Credentials', target: 'credentials' },
   { label: 'Contact',     target: 'credentials', stepOffset: 2 },

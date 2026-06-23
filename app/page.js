@@ -225,9 +225,9 @@ export default function Home() {
             <VideoIntro />
             <HeroSection />
             <AboutSection />
+            <EducationSection />
             <ProjectsSection />
             <WorkExperienceSection />
-            <EducationSection />
             <ResearchSection />
             <PublicationsFooterSection />
           </div>
