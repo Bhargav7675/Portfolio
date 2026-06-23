@@ -65,9 +65,7 @@ export const metadata = {
     description: profile.description,
     images: [
       {
-        url: '/opengraph-image',
-        width: 1200,
-        height: 630,
+        url: profile.images.portrait,
         alt: `${profile.name.full} — ${profile.roles.short} portfolio`,
       },
     ],
@@ -76,7 +74,7 @@ export const metadata = {
     card: 'summary_large_image',
     title: pageTitle,
     description: profile.description,
-    images: ['/opengraph-image'],
+    images: [profile.images.portrait],
   },
   robots: {
     index: true,
