@@ -1,0 +1,376 @@
+{
+"site": {
+"tagline": "Engineering agentic AI systems that reason, retrieve, verify, and scale."
+},
+"hero": {
+"taglineHighlight": "agentic AI systems",
+"freelanceNote": "Available for full-time AI/ML, agentic AI, and ML infrastructure opportunities.",
+"availableLabel": "Available for work",
+"pills": [
+"Applied AI Engineer",
+"Agentic AI Systems",
+"Multi-Agent RAG",
+"ML Infrastructure"
+],
+"specialistStat": {
+"value": "Agentic AI + ML Systems",
+"label": "Specialist"
+}
+},
+"interstitial": {
+"availabilityLabel": "Availability",
+"basedInLabel": "Based in",
+"statLabels": [
+"Years\\nexperience",
+"AI/ML\\nprojects",
+"Research\\nsystems"
+]
+},
+"footer": {
+"eyebrow": "Available for AI/ML and agentic systems roles",
+"ctaLines": [
+"Building AI systems",
+"that reason",
+"with evidence"
+],
+"ctaAccent": "reliably."
+},
+"name": {
+"first": "Bhargav",
+"last": "Boyapati",
+"full": "Bhargav Boyapati"
+},
+"email": "bhargavboyapati2602@gmail.com",
+"images": {
+"portrait": "/assets/portrait-2026.jpg"
+},
+"tagline": "Engineering agentic AI systems that reason, retrieve, verify, and scale.",
+"description": "Applied AI Engineer focused on agentic AI systems, multi-agent RAG pipelines, trustworthy AI, and scalable ML infrastructure.",
+"roles": {
+"short": "Applied AI Engineer",
+"detailed": "Agentic AI · Multi-Agent RAG · ML Infrastructure · Trustworthy AI"
+},
+"location": {
+"based": "Arlington, TX",
+"availability": "United States",
+"timeZone": "America/Chicago",
+"timeLabel": "Texas time"
+},
+"available": true,
+"bio": "Applied AI Engineer and MS Computer Science graduate from the University of Texas at Arlington with 2+ years of professional experience building machine learning pipelines, predictive models, recommendation systems, and production ML workflows. Currently engineering multi-agent RAG systems through the IEEE Computational Intelligence Society LLM Task Force and independently building a self-auditing clinical AI system focused on reliability, verification, transparency, and trustworthy decision support.",
+"stats": [
+{
+"value": "2+",
+"label": "Years Experience"
+},
+{
+"value": "5+",
+"label": "AI/ML Projects"
+},
+{
+"value": "2",
+"label": "Research Systems"
+}
+],
+"skills": [
+"Applied AI Engineering",
+"Agentic AI",
+"Multi-Agent Systems",
+"RAG Systems",
+"ML Infrastructure",
+"Python",
+"LangGraph",
+"LangChain",
+"FAISS",
+"Ollama",
+"Llama 3.2",
+"Pydantic",
+"PyTorch",
+"TensorFlow",
+"Scikit-learn",
+"AWS",
+"Docker",
+"SQL",
+"Power BI"
+],
+"experience": [
+{
+"id": 1,
+"role": "Machine Learning Engineer",
+"company": "ProvenTech Consulting Pvt. Ltd.",
+"companyShort": "PROVENTECH",
+"type": "Full-time",
+"location": "India",
+"period": "Mar 2022",
+"periodEnd": "Jun 2024",
+"bullets": [
+"Achieved 90% customer-behavior prediction accuracy by developing end-to-end Python, Scikit-learn, and PyTorch pipelines spanning data ingestion, feature engineering, model training, validation, and Git-based CI/CD deployment.",
+"Reduced unplanned maintenance costs by 20% by implementing anomaly-detection and operational failure-prediction workflows across large-scale, time-ordered event data.",
+"Maintained SLA-compliant production workflows by introducing statistical validation, data-quality checks, latency monitoring, drift detection, and structured issue resolution across high-throughput ML pipelines.",
+"Increased cross-sell conversions by 15% by owning a collaborative-filtering recommendation system from data modeling and ETL design through model training, MVP deployment, and stakeholder presentation.",
+"Improved operational decision-making efficiency by 25% by integrating predictive outputs into Power BI dashboards and translating complex model findings into actionable recommendations for senior stakeholders."
+],
+"desc": "Machine Learning Engineer building production ML pipelines, predictive models, anomaly-detection workflows, recommendation systems, and data-driven decision support systems.",
+"tech": [
+"Python",
+"Scikit-learn",
+"PyTorch",
+"TensorFlow",
+"XGBoost",
+"SQL",
+"Power BI",
+"AWS",
+"Git",
+"CI/CD"
+],
+"image": "/assets/work-experience.webp"
+}
+],
+"research": [
+{
+"id": 1,
+"role": "AI Research Engineer - Multi-Agent RAG",
+"organization": "IEEE Computational Intelligence Society - LLM Task Force",
+"organizationShort": "IEEE CIS",
+"type": "Research System",
+"location": "Remote",
+"period": "Apr 2026",
+"periodEnd": "Present",
+"title": "Multi-Agent RAG for Enterprise Decision Workflows",
+"image": "/assets/ma-rag-architecture.jpg",
+"architectureImage": "/assets/ma-rag-architecture.jpg",
+"tech": [
+"Python",
+"LangGraph",
+"LangChain",
+"FAISS",
+"Ollama",
+"Llama 3.2 3B",
+"Pydantic",
+"Hybrid Retrieval",
+"Reranking",
+"Multi-Agent Systems",
+"Agentic RAG"
+],
+"desc": "Researching and engineering an agentic Multi-Agent Retrieval-Augmented Generation system for enterprise decision workflows. The system transforms RAG into a coordinated multi-agent architecture where specialized agents plan, route, retrieve, extract evidence, answer questions, aggregate outputs, synthesize responses, and verify final answers with confidence and evidence.",
+"highlights": [
+"Architected an eight-agent RAG workflow spanning routing, planning, step definition, retrieval, evidence curation, grounded generation, summarization, and verification.",
+"Implemented an end-to-end retrieval pipeline supporting PDF, TXT, and Markdown documents with chunking, embeddings, FAISS vector search, hybrid retrieval, reranking, contextual compression, and per-step confidence scoring.",
+"Achieved a 100% pass rate across 8 knowledge-base regression cases and 14 automated tests by implementing evidence-sufficiency gating, post-answer verification, retries, self-correction, and structured fallback logic.",
+"Integrated Ollama and Llama 3.2 3B for local planning, extraction, grounded question answering, summarization, and verification while retaining optional OpenAI overrides.",
+"Established JSONL audit artifacts including an evidence ledger and A2A journal to capture agent actions, retrieved chunk identifiers, sufficiency decisions, intermediate responses, and verification outcomes."
+],
+"reference": {
+"title": "MA-RAG: Multi-Agent Retrieval-Augmented Generation via Collaborative Chain-of-Thought Reasoning",
+"authors": "Thang Nguyen, Peter Chin, Yu-Wing Tai",
+"year": "2025",
+"venue": "arXiv preprint arXiv:2505.20096",
+"link": "https://arxiv.org/abs/2505.20096"
+}
+},
+{
+"id": 2,
+"role": "Independent AI Researcher - Trustworthy Healthcare AI",
+"organization": "Independent Research",
+"organizationShort": "Independent",
+"type": "Independent Research",
+"location": "Arlington, TX",
+"period": "Jan 2026",
+"periodEnd": "Present",
+"title": "Self-Auditing Clinical Decision Support Agent",
+"image": "/assets/self-auditing-clinical-ai-research.png",
+"tech": [
+"Python",
+"LangGraph",
+"LangChain",
+"OpenAI API",
+"RAG",
+"Logistic Regression",
+"TF-IDF",
+"Cosine Similarity",
+"Reliability Scoring",
+"Human-in-the-Loop"
+],
+"desc": "Independently researching and building a trustworthy clinical AI system focused on evidence-grounded recommendations, self-auditing, hallucination detection, reliability scoring, and human-in-the-loop review for safer clinical decision support.",
+"highlights": [
+"Architected a four-stage clinical decision-support pipeline integrating risk prediction, evidence retrieval, structured reasoning, and automated verification to produce traceable, evidence-grounded recommendations.",
+"Combined Logistic Regression, TF-IDF, cosine similarity, structured reasoning, and claim-evidence consistency checks within a modular self-auditing workflow.",
+"Designed the system to route generated recommendations through evidence-sufficiency and claim-alignment checks before final delivery, improving transparency and reducing unsupported outputs.",
+"Implemented five reliability mechanisms: prompt tracing, tool-call tracing, loop detection, and reliability scoring.",
+"Generated structured audit traces and added human-in-the-loop escalation paths for workflows failing evidence-sufficiency or reliability checks."
+]
+}
+],
+"projects": [
+{
+"id": 1,
+"title": "PulseForge",
+"subtitle": "AI Fitness Tracker Platform",
+"type": "Mobile App",
+"link": "https://github.com/Bhargav7675",
+"image": "/assets/pulse-forge-1.jpg",
+"images": [
+"/assets/pulse-forge-1.jpg",
+"/assets/pulse-forge-2.jpg",
+"/assets/pulse-forge-3.jpg"
+],
+"tech": [
+"React Native",
+"Python",
+"Scikit-learn",
+"AWS EC2",
+"REST APIs",
+"Time-Series Features",
+"Conversational AI"
+],
+"desc": "AI-powered fitness tracker platform combining activity tracking, personalized recommendations, cloud deployment, REST APIs, and conversational AI-assisted workout guidance.",
+"highlights": [
+"Architected a cloud-based fitness platform integrating activity tracking, personalized recommendations, REST APIs, and conversational AI-assisted workout guidance.",
+"Developed data-ingestion and time-series feature-engineering workflows supporting feedback-driven model updates and personalized user experiences.",
+"Maintained 99.9% application uptime by deploying services on AWS EC2 and supporting low-latency communication across frontend, backend, database, and AI components.",
+"Achieved 85% forecasting accuracy by training Scikit-learn models to predict user goal completion from historical activity patterns."
+]
+},
+{
+"id": 2,
+"title": "Automatic Eye Disease Prediction",
+"subtitle": "Medical Image Classification System",
+"type": "AI/ML Project",
+"link": "https://github.com/Bhargav7675",
+"image": "/assets/project-eye-disease.png",
+"tech": [
+"Python",
+"PyTorch",
+"TensorFlow",
+"CNN",
+"Grad-CAM",
+"K-Fold Cross Validation",
+"Medical Imaging"
+],
+"desc": "Computer vision project for retinal image classification using CNN-based deep learning pipelines, statistical model validation, and Grad-CAM interpretability for explainable medical image analysis.",
+"highlights": [
+"Built and validated CNN-based retinal image-classification pipelines across more than 5,000 images.",
+"Achieved 97% diagnostic accuracy through model training, validation, and statistical evaluation.",
+"Strengthened model validation and interpretability through k-fold cross-validation, statistical evaluation, and Grad-CAM visualizations."
+]
+}
+],
+"education": [
+{
+"id": 1,
+"degree": "Master of Science in Computer Science",
+"school": "University of Texas at Arlington",
+"schoolShort": "UT ARLINGTON",
+"location": "Arlington, TX",
+"period": "Aug 2024",
+"periodEnd": "May 2026",
+"status": "Graduated May 2026",
+"image": "/assets/education-uta-campus-v2.jpg",
+"desc": "Completed a Master of Science in Computer Science at the University of Texas at Arlington, with academic focus areas in artificial intelligence, machine learning, algorithms, software engineering, database systems, cloud computing, and scalable data-driven applications. My graduate work strengthened my foundation in designing intelligent systems, building efficient algorithms, and developing production-oriented software solutions.",
+"highlights": [
+"Developed a graduate-level foundation in artificial intelligence, machine learning, algorithms, database systems, software engineering, and cloud computing.",
+"Applied computer science concepts through academic projects involving AI decision systems, data pipelines, full-stack development, model evaluation, and cloud deployment.",
+"Served as a Graduate Teaching Assistant, supporting course operations, grading, student evaluation, academic coordination, and technical learning support.",
+"Built practical experience connecting theory with implementation across intelligent systems, scalable computing, and software development workflows."
+],
+"coursework": [
+"Artificial Intelligence",
+"Machine Learning",
+"Design and Analysis of Algorithms",
+"Database Systems",
+"Software Engineering",
+"Cloud Computing",
+"Data Mining",
+"Big Data Systems"
+],
+"academicFocus": [
+"Artificial Intelligence",
+"Machine Learning Systems",
+"Algorithmic Problem Solving",
+"Scalable Software Engineering",
+"Database and Data Systems",
+"Cloud-Based Application Development"
+]
+}
+],
+"awards": [
+{
+"id": 1,
+"title": "Best Presentation Award",
+"subtitle": "CSE 5360 · Artificial Intelligence · Spring 2026",
+"organization": "University of Texas at Arlington",
+"course": "CSE 5360 - Artificial Intelligence",
+"project": "Search Algorithm Implementation for Pacman Maze Solving",
+"team": [
+"Peter Nguyen",
+"Bhargav Boyapati"
+],
+"instructor": "Sihong He",
+"date": "May 1, 2026",
+"certificate": "/assets/best-presentation_group-06.pdf",
+"tagline": "Engineered. Optimized. Recognized.",
+"desc": "Earned the Best Presentation Award in CSE 5360 - Artificial Intelligence at the University of Texas at Arlington for a search-based AI decision system focused on Pacman maze solving. The project explored DFS, BFS, UCS, and A* Search, combining state-space modeling, heuristic design, path planning, and performance optimization to demonstrate how intelligent systems reason through constrained decision environments.",
+"highlights": [
+"Implemented classical AI search algorithms including DFS, BFS, UCS, and A* Search.",
+"Designed state-space representations for maze-solving and path-planning problems.",
+"Applied heuristic reasoning to improve search efficiency and reduce unnecessary node expansion.",
+"Presented the system clearly through technical storytelling, structured explanation, and algorithmic analysis."
+],
+"skills": [
+"Artificial Intelligence",
+"Search Algorithms",
+"A* Search",
+"Heuristic Design",
+"State-Space Optimization",
+"Algorithmic Problem Solving",
+"Technical Presentation"
+]
+}
+],
+"publications": [
+{
+"id": 1,
+"title": "AWS Certified Cloud Practitioner",
+"platform": "Amazon Web Services",
+"year": "2025",
+"link": "https://www.credly.com/",
+"desc": "Foundational certification covering AWS cloud concepts, core services, security, architecture, pricing, and support models."
+},
+{
+"id": 2,
+"title": "Microsoft Azure Fundamentals (AZ-900)",
+"platform": "Microsoft",
+"year": "2025",
+"link": "https://learn.microsoft.com/",
+"desc": "Foundational certification covering core Azure cloud concepts, services, pricing, and governance."
+},
+{
+"id": 3,
+"title": "AI Fluency Framework & Foundations",
+"platform": "Anthropic",
+"year": "2025",
+"link": "https://www.anthropic.com/",
+"image": "/assets/awards-certificate-fluency-foundations.png",
+"desc": "Certification covering frameworks for effective collaboration with AI systems and foundational AI fluency concepts."
+},
+{
+"id": 4,
+"title": "Claude 101",
+"platform": "Anthropic",
+"year": "2025",
+"link": "https://www.anthropic.com/",
+"image": "/assets/awards-certificate-claude101.png",
+"desc": "Introductory certification covering Claude's capabilities, prompting fundamentals, and practical use cases."
+}
+],
+"socials": [
+{
+"label": "GitHub",
+"href": "https://github.com/Bhargav7675"
+},
+{
+"label": "LinkedIn",
+"href": "https://linkedin.com/in/bhargav-boyapati"
+}
+]
+}

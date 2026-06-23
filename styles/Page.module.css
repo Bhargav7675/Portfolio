@@ -1,0 +1,39 @@
+.skipLink {
+  position: fixed;
+  top: 0.75rem;
+  left: 0.75rem;
+  z-index: 11000;
+  padding: 0.65rem 1rem;
+  border-radius: 999px;
+  background: var(--surface-white);
+  color: var(--text-primary);
+  font-weight: 700;
+  text-decoration: none;
+  transform: translateY(-160%);
+  transition: transform 0.2s ease;
+}
+
+.skipLink:focus {
+  transform: translateY(0);
+}
+
+.loopOverlay {
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  opacity: 0;
+  pointer-events: none;
+  background: #000;
+}
+
+.main {
+  height: 100vh;
+  overflow-y: scroll;
+  overscroll-behavior: none;
+}
+
+@media (max-width: 767px) {
+  .main {
+    height: 100svh;
+  }
+}

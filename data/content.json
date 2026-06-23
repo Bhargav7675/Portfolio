@@ -1,0 +1,38 @@
+{
+"site": {
+"tagline": "Engineering agentic AI systems that reason, retrieve, verify, and scale."
+},
+"hero": {
+"taglineHighlight": "agentic AI systems",
+"freelanceNote": "Available for full-time AI/ML, agentic AI, and ML infrastructure opportunities.",
+"availableLabel": "Available for work",
+"pills": [
+"Applied AI Engineer",
+"Agentic AI Systems",
+"Multi-Agent RAG",
+"ML Infrastructure"
+],
+"specialistStat": {
+"value": "Agentic AI + ML Systems",
+"label": "Specialist"
+}
+},
+"interstitial": {
+"availabilityLabel": "Availability",
+"basedInLabel": "Based in",
+"statLabels": [
+"Years\nexperience",
+"AI/ML\nprojects",
+"Research\nsystems"
+]
+},
+"footer": {
+"eyebrow": "Available for AI/ML and agentic systems roles",
+"ctaLines": [
+"Building AI systems",
+"that reason",
+"with evidence"
+],
+"ctaAccent": "reliably."
+}
+}

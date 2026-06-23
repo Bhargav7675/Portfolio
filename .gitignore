@@ -1,0 +1,65 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# env files (can opt-in for committing if needed)
+.env*
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+.superpowers
+
+# tooling caches
+.swc
+.claude
+.code-review-graph
+
+# internal dev planning docs
+docs/superpowers
+
+# Unused legacy media retained locally, excluded from deploys
+/public/assets/awards-certificate.png
+/public/assets/about.webp
+/public/assets/education-uta-campus.jpg
+/public/assets/hero.png
+/public/assets/project-artgenio.png
+/public/assets/project-easyfolio.png
+/public/assets/university-of-texas-at-arlington-1.png
+/public/assets/university-of-texas-at-arlington-2.png
+/public/assets/uta-image-3881.png
+/public/assets/uta-image-3887.png
+/public/assets/uta-image-3888.png
+/public/assets/uta-image-3889.png
+/public/assets/uta-image-3890.png
